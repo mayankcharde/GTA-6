@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "pricedown";
+  src: url("./pricedown.otf");
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  font-family: "pricedown";
+  overflow-x: hidden;
+}
+
+@media (max-width: 768px) {
+  html {
+    font-size: 14px;
+  }
+
+  .main {
+    scale: 1 !important;
+  }
+
+  .character {
+    scale: 1.2 !important;
+  }
+}
