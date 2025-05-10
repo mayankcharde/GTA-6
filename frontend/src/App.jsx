@@ -207,24 +207,13 @@ function App() {
                 <h1 className="text-4xl md:text-8xl">Still Running,</h1>
                 <h1 className="text-4xl md:text-8xl">Not Hunting</h1>
                 <p className="mt-10 text-xl font-[Helvetica_Now_Display]">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Distinctio possimus, asperiores nam, omnis inventore nesciunt
-                  a architecto eveniet saepe, ducimus necessitatibus at
-                  voluptate.
+                  Still running, not hunting — a life on the edge, escaping chaos, surviving the streets, and staying one step ahead in a world without mercy.
                 </p>
                 <p className="mt-3 text-xl font-[Helvetica_Now_Display]">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. At
-                  eius illum fugit eligendi nesciunt quia similique velit
-                  excepturi soluta tenetur illo repellat consectetur laborum
-                  eveniet eaque, dicta, hic quisquam? Ex cupiditate ipsa nostrum
-                  autem sapiente.
+                Step into the vibrant chaos of Leonida in Grand Theft Auto VI. Join Lucia and Jason as they navigate crime, loyalty, and survival in Rockstar’s most ambitious open-world experience yet. With stunning visuals, gripping storytelling, and unforgettable characters, GTA 6 redefines the future of interactive entertainment.
                 </p>
                 <p className="mt-10 text-xl font-[Helvetica_Now_Display]">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. At
-                  eius illum fugit eligendi nesciunt quia similique velit
-                  excepturi soluta tenetur illo repellat consectetur laborum
-                  eveniet eaque, dicta, hic quisquam? Ex cupiditate ipsa nostrum
-                  autem sapiente.
+                Grand Theft Auto VI dives deep into the chaotic streets of Leonida, where survival depends on loyalty and bold choices. Lucia sets the tone with lines like, ‘We’ve been through enough. We don’t have anything to lose,’ and ‘The only way we’re gonna get through this is by sticking together. Being a team.’ Her partner Jason backs her with unwavering support, stating, ‘If anything happens, I’m right behind you, and Don’t test me!’ Together, they face the lawless world around them with grit, trust, and relentless drive. These powerful lines capture the intensity and emotional core of GTA 6’s gripping story.
                 </p>
                 <button className="bg-yellow-500 px-5 py-5 md:px-10 md:py-10  mt-10 text-2xl md:text-4xl hover:bg-black text-amber-50 bg-gradient-to-b w-full md:w-auto rounded-full cursor-pointer border-none">
                   Download Now
