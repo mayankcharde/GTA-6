@@ -2,7 +2,10 @@
 
 @font-face {
   font-family: "pricedown";
-  src: url("./pricedown.otf");
+  src: url("pricedown.otf") format("opentype");
+  font-display: swap;
+  font-weight: normal;
+  font-style: normal;
 }
 
 html,
@@ -14,15 +17,36 @@ body {
 }
 
 @media (max-width: 768px) {
-  html {
-    font-size: 14px;
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    position: relative;
   }
 
   .main {
+    transform: none !important;
     scale: 1 !important;
+    width: 100% !important;
   }
 
-  .character {
-    scale: 1.2 !important;
+  .landing {
+    min-height: 100vh;
+    height: auto !important;
   }
+}
+
+@keyframes bounce {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+.group-hover\:animate-bounce {
+  animation: bounce 1s ease infinite;
 }
