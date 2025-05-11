@@ -49,7 +49,13 @@ const Contact = () => {
           <div className="lg:col-span-2 bg-white/5 backdrop-blur-xl p-8 rounded-2xl
             border border-white/10 hover:border-yellow-500/30
             transition-all duration-500">
-            // ...existing form code with enhanced styling...
+           Developed by: Mayank Shirish Charde 
+
+            Contact: mayankcharde2@gmail.com
+            <br />
+                 Phone: +91 9699561658
+                 <br />
+                 © 2025 GTA 6. All rights reserved.
           </div>
 
           {/* Contact Info */}
